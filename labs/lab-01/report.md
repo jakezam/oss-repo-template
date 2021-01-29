@@ -8,13 +8,18 @@
 
 1. **Create and setup a Github account** 
   1. Go through this tutorial to get familiar with [git and github](http://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1) and to set up a git hub account.
+  
   https://github.com/jakezam
   
   2. Fork the [template repository](https://github.com/rcos/oss-repo-template).
+  
+  https://github.com/jakezam/oss-repo-template
+  
+  
   3. Fill out the information in the document.
-  	 - Please have your name and a photo in the markdown page . [Here is a sample page](https://github.com/mskmoorthy/Doc-ex1/blob/master/lab-1-sample.Md).
-  	 - You can copy and paste screen shots as well as add text.
-  	 - Please add your Mattermost handle.
+  ## Name: Jacob Zamani 
+  ### email: zamanj@rpi.edu
+  ### github account: jakezam
 
 1. **Reading assignments** - make sure to reflect on these in a lab1.md file in your repository 
   1. If you haven't already joined our Discord, use this invitation to join [https://discord.gg/R9qyC7aY](https://discord.gg/R9qyC7aY) 
