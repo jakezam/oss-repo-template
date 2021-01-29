@@ -8,7 +8,8 @@
 
 1. **Create and setup a Github account** 
   1. Go through this tutorial to get familiar with [git and github](http://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1) and to set up a git hub account.
-
+  https://github.com/jakezam
+  
   2. Fork the [template repository](https://github.com/rcos/oss-repo-template).
   3. Fill out the information in the document.
   	 - Please have your name and a photo in the markdown page . [Here is a sample page](https://github.com/mskmoorthy/Doc-ex1/blob/master/lab-1-sample.Md).
