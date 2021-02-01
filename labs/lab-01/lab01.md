@@ -84,7 +84,7 @@ Maintain a repository on github for all your lab work. Inside, you should create
 
 1. Create something using Snap or solve [this](https://blockly-games.appspot.com/maze?lang=en&level=10&skin=0) using blockly
 2. Add documentation (screenshots) of your accomplishments to `lab1.md`
-   - ![Blocky](blocky.PNG)
+   - ![Blocky](blockly.PNG)
 
 ## 6. Reflection
 
