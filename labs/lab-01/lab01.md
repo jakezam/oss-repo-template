@@ -12,7 +12,7 @@ Maintain a repository on github for all your lab work. Inside, you should create
 2. Post a message into the "#general" channel
    - https://discord.com/channels/799881445455822908/799881445891375124/804775660928106538
 3. Take a screenshot the post and paste it into your Lab 1 notebook.
-   - [Discord](discord.PNG)
+   - ![Discord](discord.PNG)
 
 ## 1. Create and setup a Github account
 
@@ -57,22 +57,34 @@ Maintain a repository on github for all your lab work. Inside, you should create
    - On WSL, it looks like it is already available [https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/tree](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/tree)
    - Run `man tree`
    - Take a screenshot and add to `lab01.md`
-     - [Tree Screenshot](Capture.PNG)
+     - ![Tree Screenshot](Capture.PNG)
 
 ## 4. Regex
 
 1. In your Foundations of Computer Science class you learned about Regular expressions. (If you have not taken Foundations of Computer Science class, please talk to the instructor for an explanation). Please do the practice problems given [here](https://regexone.com/problem/matching_decimal_numbers).
    - To get full credit, do at least 7 problems.
    - Take a screenshot and add to `lab01.md`
+   - ![Regex Ex1](ex1.PNG)
+   - ![Regex Ex2](ex2.PNG)
+   - ![Regex Ex3](ex3.PNG)
+   - ![Regex Ex4](ex4.PNG)
+   - ![Regex Ex5](ex5.PNG)
+   - ![Regex Ex6](ex6.PNG)
+   - ![Regex Ex7](ex7.PNG)
 2. Go through the tutorials [here](https://regexcrossword.com/challenges/tutorial/puzzles/1) to practice regex crosswords, then try a few problems.
    - Do at least four problems on beginner level [here](https://regexcrossword.com/challenges/beginner/puzzles/1).
    - Take a screenshot and add to `lab01.md`
+   - ![Cross Ex1](cross1.PNG)
+   - ![Cross Ex2](cross2.PNG)
+   - ![Cross Ex3](cross3.PNG)
+   - ![Cross Ex4](cross4.PNG)
 3. (Optional But Recommended) Do problem 11 in [adventofcode 2015](http://adventofcode.com/2015/day/11) (You may use regular expression)
 
 ## 5. Play with [Snap](http://snap.berkeley.edu/) or [Blockly](https://blockly-games.appspot.com/)
 
 1. Create something using Snap or solve [this](https://blockly-games.appspot.com/maze?lang=en&level=10&skin=0) using blockly
 2. Add documentation (screenshots) of your accomplishments to `lab1.md`
+   - ![Blocky](blocky.PNG)
 
 ## 6. Reflection
 
