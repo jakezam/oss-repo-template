@@ -91,6 +91,7 @@ Maintain a repository on github for all your lab work. Inside, you should create
 1. Pick an Open Source Project that might be interesting to evaluate
 2. Start thinking/finding a problem/project that interests you
 3. Add a paragraph on how you are doing this activity to `lab01.md`
+   - An Open Source Project that interests me and has been an interest of mine for some time now is the deep learning library Tensorflow. It is a very developed piece of software and is developed on and developed with by some of the top companies and products out there. While it is fairly challenging it is something that I am really interested in using. A specific project with it that interests me is using it to recognize an object in an image. The way to go about doing this, from what I understand about the library, is that I would need to build a model using some of the functions and code available through the open source library. Models take in loads of data and are trained to recognize patterns to predict specific outcomes. The model would be trained with a huge assortment of images containing that object, and then using a predict on another image after training it would ideally be able to recognize if the object exists in the image. This is a project that interests me using the Open Source Platform Tensorflow.
 4. Check out [http://aosabook.org/en/index.html](http://aosabook.org/en/index.html) for a list of a number of open source projects and for a discussion of the architectures they use.
 
 <!--#### Revisit e. Replace with TOS activity on evaluating open source ...
